@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+      <title>新王牌-查校区</title>
+<link rel="stylesheet" type="text/css" href="style/common.css" />
+<link rel="stylesheet" type="text/css" href="style/style.css" />
+		<link rel="stylesheet" href="style/jquery.mmenu.css">
+
+
+</head>
+<body> 
+
+		<div class="head clearfix w" style="height:3.625rem">
+	  <a href="#" class="fl" style="width:6.075rem;height:1.725rem;margin-top:0.65rem;margin-left:0.5rem;"><img src="images/index_nav.jpg" class="img" alt=""></a>
+		<a href="#menu" class="navbtn fr" style="margin:1.5rem 1rem 0 0"></a>
+			<nav id="menu">
+					
+			<ul>
+			<li><a href="index.html">首页</a></li>
+				<li><a href="understand.html">了解我</a></li>
+				<li><a href="small.html">小班化</a></li>
+                <li><a href="tes.html">比师资</a></li>
+				<li><a href="grade.html">看效果</a></li>
+				<li><a href="work.html">选课程</a></li>
+				<li><a href="campus.html">查校区</a></li>
+				<li><a href="query.html">有疑问</a></li>
+			        </ul>
+		</nav>
+	</div>
+<!--campus content start-->
+<div class="w campus_content" style="margin-top:0.25rem">
+  <div class="valignC">
+    <h2><b>全国中小学培训领先品牌</b></h2>
+  </div>
+  <div class="campus_img wrap valignC">
+    <img src="images/campus_1.jpg"/>
+    <p>全国城市布局（北京、上海、杭州、南京、合肥、广州、深圳、武汉）</p>
+  </div>
+  <div class="campus_img wrap valignC">
+    <img src="images/campus_2.jpg"/>
+    <p>广州校区分布</p>
+  </div>
+  <div class="wrap campus_list">
+    <h3 class="col_orange">广州新王牌</h3>
+    <div class="specific">
+    <h4>越秀</h4>
+    <p>杨箕校区：中山一路51号拓业大厦前座301室 </p>
+    <p>电话：020-87352655</p>
+    </div>
+    <div class="specific">
+    <h4>天河</h4>
+    <p>岗顶校区（筹）： 天河区天河路岗顶地铁口C出</p>
+    <p>电话：020-87352855</p>
+    </div>
+    <div class="specific">
+    <h4>白云</h4>
+    <p>机场路校区（筹）：机场高速远景路口</p>
+    <p>电话：020-87359090</p>
+  </div>
+  <div class="specific">
+    <h4>荔湾</h4>
+    <p>中山八校区：中山八路23号富力商贸大厦402室</p>
+    <p>电话：020-81193580</p>
+  </div>
+  <div class="specific">
+    <h4>海珠</h4>
+    <p>鹭江校区（筹）：海珠区新港西路敦和路路口  </p>
+    <p>电话：020-81193306</p>
+    <p>昌岗校区（筹）：海珠区江南大道中路昌岗中路路口</p>
+    <p>电话：020-81193983</p>
+  </div>
+  </div>
+</div>
+<!--campus content end-->
+<!--campus footer start-->
+   		<div class="footer" style="margin-top: 0.5rem;">
+			<div class="wrap">
+	  			<p class="valignC"> 2005-2016广州新王牌 官方网站：http://gz.xwp.com官方电话：400-000-2802</p>
+			</div>
+		</div>
+<!--campus footer end-->
+		<script type="text/javascript" src="js/jquery-1.12.3.min.js" ></script>
+		<script type="text/javascript" src="js/jquery.mmenu.min.js" ></script>
+		<script> 
+			window.onload=window.onresize=function(){
+				var rem = document.documentElement.clientWidth*20/320;
+				document.documentElement.style.fontSize = rem+'px';
+			};
+						$(function() {
+				$('nav#menu').mmenu({
+		        	slidingSubmenus: false
+		        });
+			});
+		</script>
+</body>
+</html>

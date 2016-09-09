@@ -1,0 +1,64 @@
+.nav{background-color: #fff;}
+.nav .logo{width: 6.075rem;height: 1.725rem;padding-top: 0.625rem;padding-bottom: 1.25rem;}
+.nav .nav_nav{width: 1.15rem;height: 0.925rem;padding-top:1.25rem;padding-bottom: 1.425rem;}
+.small_header{height: 3.625rem;line-height: 4.625rem;}
+.small_header .logo{width: 6.2rem;height: 1.925rem;}
+.small_header .nav{width: 1.15rem;height: 0.925rem;}
+/*wow*/
+.small_wow,.small_why{margin-top: 0.25rem;background-color: #fff;}
+.small_wow h2,.small_why h2{text-align: center;padding-top: 0.775rem;padding-bottom: 0.575rem;}
+.small_wow .wrap img{height: 10.85rem;margin-left: 2.5rem;margin-top: 0.5rem;margin: 0 auto;}
+.small_wow .wrap p{font-size: 0.4rem;line-height: 0.875rem;}
+/*why no result*/
+.small_why .why_reason{margin-top: 0.625rem;}
+.small_why .why_reason .reason_left,.small_why .why_reason .reason_right{width: 7.475rem;}
+.small_why .why_reason .reason_left .left_top{width: 5.75rem;height: 1.375rem;background: url(../images/ww.png) no-repeat;text-align: center;font-size: 0.6rem;line-height: 1.175rem;margin-left: 0.9rem;background-size: 100%;}
+.small_why .why_reason .reason_left .left_text1{margin-left: 0.175rem;margin-top: 1.325rem;}
+.small_why .why_reason .reason_left .left_text2{margin-left: 1.7rem;margin-top: 1.725rem;}
+.small_why .why_reason .reason_left p{line-height: 0.875rem;font-size: 0.5rem;}
+.small_why .why_reason .reason_left .left_text3{margin-left: 3.825rem;margin-top: 2.25rem;}
+.small_why .why_reason .reason_left .left_text4{margin-left: 0.425rem;margin-top: 2.075rem;}
+.small_why .why_reason .reason_left .left_text5{margin-left: 0.425rem;margin-top: 2.125rem;}
+.small_why .why_reason .reason_left .left_text6{margin-left: 0.425rem;margin-top: 2.325rem;}
+.small_why .why_reason .reason_left .left_text7{margin-left: 0.425rem;margin-top: 3.075rem;}
+.small_why .why_reason .reason_right .right_top{width: 5.75rem;height: 1.375rem;background: url(../images/ss.png) no-repeat;text-align: center;font-size: 0.6rem;line-height: 1.175rem;color: #fff;margin-left: 1.05rem;background-size: 100%;}
+.small_why .why_reason .reason_right p{line-height: 0.875rem;font-size: 0.5rem;text-align: left;color: #FB5109;margin-left: 1.5rem;}
+.small_why .why_reason .reason_right .right_text1{margin-top: 1.325rem;}
+.small_why .why_reason .reason_right .right_text2{margin-top: 1.725rem;}
+.small_why .why_reason .reason_right .right_text3{margin-top: 2.25rem;}
+.small_why .why_reason .reason_right .right_text4{margin-top:  2.075rem;}
+.small_why .why_reason .reason_right .right_text5{margin-top: 2.125rem;}
+.small_why .why_reason .reason_right .right_text6{margin-top: 2.325rem;}
+.small_why .why_reason .reason_right .right_text7{margin-top: 2.125rem;}
+.small_why .why_reason .reason_mid{position: relative;}
+.small_why .why_reason .reason_mid .mid_bor{border-left: 0.05rem dashed #BDB9B8;height: 30.125rem;margin-top: 2.1rem;display: block;}
+.small_why .why_reason .reason_mid .icon1,.small_why .why_reason .reason_mid .icon2,.small_why .why_reason .reason_mid .icon3,.small_why .why_reason .reason_mid .icon4,.small_why .why_reason .reason_mid .icon5,.small_why .why_reason .reason_mid .icon6,.small_why .why_reason .reason_mid .icon7{width: 1.875rem;height: 1.875rem;position: absolute;left:-0.925rem ;}
+.small_why .why_reason .reason_mid .icon1{top:3.05rem;}
+.small_why .why_reason .reason_mid .icon2{top:6.3rem;}
+.small_why .why_reason .reason_mid .icon3{top:9.55rem;}
+.small_why .why_reason .reason_mid .icon4{top:13.45rem;}
+.small_why .why_reason .reason_mid .icon5,.small_why .why_reason .reason_mid .icon6,.small_why .why_reason .reason_mid .icon7{width:2.325rem;height: 2.375rem;position: absolute;left:-1.125rem ;}
+.small_why .why_reason .reason_mid .icon5{top:17.825rem;}
+.small_why .why_reason .reason_mid .icon6{top:22.7rem;}
+.small_why .why_reason .reason_mid .icon7{top:28.625rem;}
+.small_why .why_because{color: #F95F1E;font-size: 0.5rem;margin-top: 1.675rem;padding-bottom: 1.05rem;} 
+.small_why .because_one img{width:2.775rem;height: 2.775rem;margin: 0 auto;display: block;padding-top: 0.625rem;}
+.small_why .because_one h2{color: #747474;font-weight: bold;border: none;}
+.small_why .because_one .wrap{border-top: 0.025rem solid #E7E7E7;margin-top: 0.5rem;}
+.small_why .because_one p{padding-bottom: 0.875rem;border-bottom: 0.025rem solid #E7E7E7;}
+/*why choice*/
+.small_choice h2{text-align: center;padding-top: 0.7rem;padding-bottom: 0.875rem;}
+.small_choice p{line-height: 0.9225rem;}
+.small_choice .choice_head{color: #FC4F0B;margin-top: 0.625rem;}
+.small_choice table{width: 7.375rem;margin-top: 1.15rem;}
+.small_choice table td{width: 3.625rem;height: 1.025rem;border-left: 0.025rem solid #fff;border-collapse: collapse;text-align: center;background-color: #F1F1F1;}
+.small_choice table .table_head td{background-color: #FF9D33;color: #fff;}
+.small_choice table .table_head #choice_one{width: 4.125rem;height: 1.025rem;}
+.small_choice table .table_head .choice_two{width: 5.375rem;height: 1.025rem;}
+/*footer*/
+.footer{height:2.25rem;}
+.footer p{line-height:2.25rem; font-size:0.4rem;}
+/*footer end*/
+
+
+

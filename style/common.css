@@ -1,0 +1,29 @@
+body,ul,dl,dd,h1,h2,h3,h4,h5,h6,p,table,hr{margin:0;padding:0;}
+/*reset end*/
+html{font-size:20px;}
+body{font:0.5rem "\5FAE\8F6F\96C5\9ED1";line-height:0.63rem;color:#666;background-color:#ebebeb;}
+a{text-decoration: none;color:#666;}
+button,input{font-family: "\5FAE\8F6F\96C5\9ED1";outline:none;border:0;}
+ul{list-style: none;}
+img{border: 0;width:100%;}
+th{background-color: #ff9d33;font-weight: normal;}
+i{display:inline-block;font-style:normal;}
+h2{font-size:0.6rem;color: #fc4f0b;font-weight: normal;margin:0 0.25rem;padding: 0.75rem 0 0.5rem 0;border-bottom: 1px solid #e5e5e5;}
+h3{font-size:0.55rem;color: #fa6016;font-weight: normal;}
+.fl{float: left;}
+.fr{float: right;}
+.clearfix:after{content: "\200B";display: block;height: 0;clear: both;}
+.clearfix{*zoom: 1;}
+.valignC{text-align: center;}
+.valignM{vertical-align: middle;}
+.relative{position: relative;}
+.absolute{position: absolute;}
+.col_orange{color: #fc4f0b;}
+.block{display: block;}
+.img{width: 100%;}
+.w{background-color:#fff;}
+.wrap{width: 15rem;margin:0 auto;}
+/*common end*/
+.footer{height:2.25rem;background-color:#d3d3d3;line-height:2.25rem;overflow:hidden;}
+.footer p{font-size:0.4rem;}
+/*footer end*/
